@@ -2,7 +2,7 @@ package com.nuu.gittest
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.nuu.a104library.My104Data
+import com.nuu.my105library.My104Data
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
